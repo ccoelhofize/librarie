@@ -8,6 +8,6 @@ Cette analyse a été découpée en deux parties :
 
 1) Une analyse des différents indicateurs de vente: indicateurs et graphiques autour du chiffre d'affaires; l’évolution du CA dans le temps et 
 mise en place d'une décomposition en moyenne mobile pour évaluer la tendance globale; zoom sur les références, afin d'analyser les tops et les
-flops, la répartition produit par catégorie, etc; des informations sur les profils de nos clients, et également larépartition du chiffre 
-d'affaires entre eux, via par exemple une courbe de Lorenz (Indice Gini)
-2) Une analyse plus ciblée sur les clients : l’objectif serait cette fois-ci de comprendre le comportement de nos clients en ligne pour pouvoir ensuite comparer avec la connaissance acquise via nos librairies physiques. Analyse de corrélation entre le genre d'un client et les catégories des livres achetés, la corrélation entre l’âge des clients et le montant total des achats, la fréquence d’achat, la taille du panier moyen et les catégories des livres achetés.
+flops, la répartition produit par catégorie, etc; extration des informations sur les profils des clients, et également la répartition du chiffre 
+d'affaires entre eux via courbe de Lorenz (Indice Gini)
+2) Une analyse plus ciblée sur les clients : l’objectif était cette fois-ci de comprendre le comportement des clients en ligne pour pouvoir ensuite comparer avec la connaissance acquise via les librairies physiques. Analyse de corrélation entre le genre d'un client et les catégories des livres achetés, la corrélation entre l’âge des clients et le montant total des achats, la fréquence d’achat, la taille du panier moyen et les catégories des livres achetés.

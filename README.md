@@ -1,4 +1,4 @@
-# librarie
+# Analyse des ventes d'une librarie avec Python
 J'étais consultante Data Analyst pour une grande librairie généraliste en ligne très réputée. J'étais directement rattaché au service Marketing.
 Cette librarie était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et
 l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne. J'ai intervenu car l’entreprise souhaitait faire le
